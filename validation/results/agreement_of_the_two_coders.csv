@@ -1,0 +1,6 @@
+item,posts_labeled_by_both,share_same_label,cohens_kappa,reading
+"Emotion, seven classes",292,0.6199,0.4966,tentative
+Emotion as three valence classes,292,0.7329,0.5887,tentative
+Fear against the other classes,292,0.9315,0.4081,tentative
+Anger against the other classes,292,0.8733,0.4288,tentative
+"Tone, three classes",290,0.5966,0.3855,failed

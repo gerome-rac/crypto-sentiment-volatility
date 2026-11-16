@@ -1,0 +1,1826 @@
+fold,day_in_window,date_window1,role
+1,1,2019-08-30,Validation
+1,2,2019-08-31,Validation
+1,3,2019-09-01,Validation
+1,4,2019-09-02,Validation
+1,5,2019-09-03,Validation
+1,6,2019-09-04,Validation
+1,7,2019-09-05,Validation
+1,8,2019-09-06,Validation
+1,9,2019-09-07,Validation
+1,10,2019-09-08,Validation
+1,11,2019-09-09,Validation
+1,12,2019-09-10,Validation
+1,13,2019-09-11,Validation
+1,14,2019-09-12,Validation
+1,15,2019-09-13,Validation
+1,16,2019-09-14,Validation
+1,17,2019-09-15,Validation
+1,18,2019-09-16,Validation
+1,19,2019-09-17,Validation
+1,20,2019-09-18,Validation
+1,21,2019-09-19,Validation
+1,22,2019-09-20,Validation
+1,23,2019-09-21,Validation
+1,24,2019-09-22,Validation
+1,25,2019-09-23,Validation
+1,26,2019-09-24,Validation
+1,27,2019-09-25,Validation
+1,28,2019-09-26,Validation
+1,29,2019-09-27,Validation
+1,30,2019-09-28,Validation
+1,31,2019-09-29,Validation
+1,32,2019-09-30,Validation
+1,33,2019-10-01,Validation
+1,34,2019-10-02,Validation
+1,35,2019-10-03,Validation
+1,36,2019-10-04,Validation
+1,37,2019-10-05,Validation
+1,38,2019-10-06,Validation
+1,39,2019-10-07,Validation
+1,40,2019-10-08,Validation
+1,41,2019-10-09,Validation
+1,42,2019-10-10,Validation
+1,43,2019-10-11,Validation
+1,44,2019-10-12,Validation
+1,45,2019-10-13,Validation
+1,46,2019-10-14,Validation
+1,47,2019-10-15,Validation
+1,48,2019-10-16,Validation
+1,49,2019-10-17,Validation
+1,50,2019-10-18,Validation
+1,51,2019-10-19,Validation
+1,52,2019-10-20,Validation
+1,53,2019-10-21,Validation
+1,54,2019-10-22,Validation
+1,55,2019-10-23,Validation
+1,56,2019-10-24,Validation
+1,57,2019-10-25,Validation
+1,58,2019-10-26,Validation
+1,59,2019-10-27,Validation
+1,60,2019-10-28,Validation
+1,61,2019-10-29,Validation
+1,62,2019-10-30,Validation
+1,63,2019-10-31,Validation
+1,64,2019-11-01,Validation
+1,65,2019-11-02,Validation
+1,66,2019-11-03,Validation
+1,67,2019-11-04,Validation
+1,68,2019-11-05,Validation
+1,69,2019-11-06,Validation
+1,70,2019-11-07,Validation
+1,71,2019-11-08,Validation
+1,72,2019-11-09,Validation
+1,73,2019-11-10,Validation
+1,74,2019-11-11,Removed (buffer)
+1,75,2019-11-12,Removed (buffer)
+1,76,2019-11-13,Removed (buffer)
+1,77,2019-11-14,Removed (buffer)
+1,78,2019-11-15,Removed (buffer)
+1,79,2019-11-16,Removed (buffer)
+1,80,2019-11-17,Removed (buffer)
+1,81,2019-11-18,Removed (buffer)
+1,82,2019-11-19,Removed (buffer)
+1,83,2019-11-20,Removed (buffer)
+1,84,2019-11-21,Removed (buffer)
+1,85,2019-11-22,Removed (buffer)
+1,86,2019-11-23,Removed (buffer)
+1,87,2019-11-24,Removed (buffer)
+1,88,2019-11-25,Removed (buffer)
+1,89,2019-11-26,Removed (buffer)
+1,90,2019-11-27,Removed (buffer)
+1,91,2019-11-28,Removed (buffer)
+1,92,2019-11-29,Removed (buffer)
+1,93,2019-11-30,Removed (buffer)
+1,94,2019-12-01,Removed (buffer)
+1,95,2019-12-02,Removed (buffer)
+1,96,2019-12-03,Removed (buffer)
+1,97,2019-12-04,Removed (buffer)
+1,98,2019-12-05,Removed (buffer)
+1,99,2019-12-06,Removed (buffer)
+1,100,2019-12-07,Removed (buffer)
+1,101,2019-12-08,Removed (buffer)
+1,102,2019-12-09,Removed (buffer)
+1,103,2019-12-10,Removed (buffer)
+1,104,2019-12-11,Training
+1,105,2019-12-12,Training
+1,106,2019-12-13,Training
+1,107,2019-12-14,Training
+1,108,2019-12-15,Training
+1,109,2019-12-16,Training
+1,110,2019-12-17,Training
+1,111,2019-12-18,Training
+1,112,2019-12-19,Training
+1,113,2019-12-20,Training
+1,114,2019-12-21,Training
+1,115,2019-12-22,Training
+1,116,2019-12-23,Training
+1,117,2019-12-24,Training
+1,118,2019-12-25,Training
+1,119,2019-12-26,Training
+1,120,2019-12-27,Training
+1,121,2019-12-28,Training
+1,122,2019-12-29,Training
+1,123,2019-12-30,Training
+1,124,2019-12-31,Training
+1,125,2020-01-01,Training
+1,126,2020-01-02,Training
+1,127,2020-01-03,Training
+1,128,2020-01-04,Training
+1,129,2020-01-05,Training
+1,130,2020-01-06,Training
+1,131,2020-01-07,Training
+1,132,2020-01-08,Training
+1,133,2020-01-09,Training
+1,134,2020-01-10,Training
+1,135,2020-01-11,Training
+1,136,2020-01-12,Training
+1,137,2020-01-13,Training
+1,138,2020-01-14,Training
+1,139,2020-01-15,Training
+1,140,2020-01-16,Training
+1,141,2020-01-17,Training
+1,142,2020-01-18,Training
+1,143,2020-01-19,Training
+1,144,2020-01-20,Training
+1,145,2020-01-21,Training
+1,146,2020-01-22,Training
+1,147,2020-01-23,Training
+1,148,2020-01-24,Training
+1,149,2020-01-25,Training
+1,150,2020-01-26,Training
+1,151,2020-01-27,Training
+1,152,2020-01-28,Training
+1,153,2020-01-29,Training
+1,154,2020-01-30,Training
+1,155,2020-01-31,Training
+1,156,2020-02-01,Training
+1,157,2020-02-02,Training
+1,158,2020-02-03,Training
+1,159,2020-02-04,Training
+1,160,2020-02-05,Training
+1,161,2020-02-06,Training
+1,162,2020-02-07,Training
+1,163,2020-02-08,Training
+1,164,2020-02-09,Training
+1,165,2020-02-10,Training
+1,166,2020-02-11,Training
+1,167,2020-02-12,Training
+1,168,2020-02-13,Training
+1,169,2020-02-14,Training
+1,170,2020-02-15,Training
+1,171,2020-02-16,Training
+1,172,2020-02-17,Training
+1,173,2020-02-18,Training
+1,174,2020-02-19,Training
+1,175,2020-02-20,Training
+1,176,2020-02-21,Training
+1,177,2020-02-22,Training
+1,178,2020-02-23,Training
+1,179,2020-02-24,Training
+1,180,2020-02-25,Training
+1,181,2020-02-26,Training
+1,182,2020-02-27,Training
+1,183,2020-02-28,Training
+1,184,2020-02-29,Training
+1,185,2020-03-01,Training
+1,186,2020-03-02,Training
+1,187,2020-03-03,Training
+1,188,2020-03-04,Training
+1,189,2020-03-05,Training
+1,190,2020-03-06,Training
+1,191,2020-03-07,Training
+1,192,2020-03-08,Training
+1,193,2020-03-09,Training
+1,194,2020-03-10,Training
+1,195,2020-03-11,Training
+1,196,2020-03-12,Training
+1,197,2020-03-13,Training
+1,198,2020-03-14,Training
+1,199,2020-03-15,Training
+1,200,2020-03-16,Training
+1,201,2020-03-17,Training
+1,202,2020-03-18,Training
+1,203,2020-03-19,Training
+1,204,2020-03-20,Training
+1,205,2020-03-21,Training
+1,206,2020-03-22,Training
+1,207,2020-03-23,Training
+1,208,2020-03-24,Training
+1,209,2020-03-25,Training
+1,210,2020-03-26,Training
+1,211,2020-03-27,Training
+1,212,2020-03-28,Training
+1,213,2020-03-29,Training
+1,214,2020-03-30,Training
+1,215,2020-03-31,Training
+1,216,2020-04-01,Training
+1,217,2020-04-02,Training
+1,218,2020-04-03,Training
+1,219,2020-04-04,Training
+1,220,2020-04-05,Training
+1,221,2020-04-06,Training
+1,222,2020-04-07,Training
+1,223,2020-04-08,Training
+1,224,2020-04-09,Training
+1,225,2020-04-10,Training
+1,226,2020-04-11,Training
+1,227,2020-04-12,Training
+1,228,2020-04-13,Training
+1,229,2020-04-14,Training
+1,230,2020-04-15,Training
+1,231,2020-04-16,Training
+1,232,2020-04-17,Training
+1,233,2020-04-18,Training
+1,234,2020-04-19,Training
+1,235,2020-04-20,Training
+1,236,2020-04-21,Training
+1,237,2020-04-22,Training
+1,238,2020-04-23,Training
+1,239,2020-04-24,Training
+1,240,2020-04-25,Training
+1,241,2020-04-26,Training
+1,242,2020-04-27,Training
+1,243,2020-04-28,Training
+1,244,2020-04-29,Training
+1,245,2020-04-30,Training
+1,246,2020-05-01,Training
+1,247,2020-05-02,Training
+1,248,2020-05-03,Training
+1,249,2020-05-04,Training
+1,250,2020-05-05,Training
+1,251,2020-05-06,Training
+1,252,2020-05-07,Training
+1,253,2020-05-08,Training
+1,254,2020-05-09,Training
+1,255,2020-05-10,Training
+1,256,2020-05-11,Training
+1,257,2020-05-12,Training
+1,258,2020-05-13,Training
+1,259,2020-05-14,Training
+1,260,2020-05-15,Training
+1,261,2020-05-16,Training
+1,262,2020-05-17,Training
+1,263,2020-05-18,Training
+1,264,2020-05-19,Training
+1,265,2020-05-20,Training
+1,266,2020-05-21,Training
+1,267,2020-05-22,Training
+1,268,2020-05-23,Training
+1,269,2020-05-24,Training
+1,270,2020-05-25,Training
+1,271,2020-05-26,Training
+1,272,2020-05-27,Training
+1,273,2020-05-28,Training
+1,274,2020-05-29,Training
+1,275,2020-05-30,Training
+1,276,2020-05-31,Training
+1,277,2020-06-01,Training
+1,278,2020-06-02,Training
+1,279,2020-06-03,Training
+1,280,2020-06-04,Training
+1,281,2020-06-05,Training
+1,282,2020-06-06,Training
+1,283,2020-06-07,Training
+1,284,2020-06-08,Training
+1,285,2020-06-09,Training
+1,286,2020-06-10,Training
+1,287,2020-06-11,Training
+1,288,2020-06-12,Training
+1,289,2020-06-13,Training
+1,290,2020-06-14,Training
+1,291,2020-06-15,Training
+1,292,2020-06-16,Training
+1,293,2020-06-17,Training
+1,294,2020-06-18,Training
+1,295,2020-06-19,Training
+1,296,2020-06-20,Training
+1,297,2020-06-21,Training
+1,298,2020-06-22,Training
+1,299,2020-06-23,Training
+1,300,2020-06-24,Training
+1,301,2020-06-25,Training
+1,302,2020-06-26,Training
+1,303,2020-06-27,Training
+1,304,2020-06-28,Training
+1,305,2020-06-29,Training
+1,306,2020-06-30,Training
+1,307,2020-07-01,Training
+1,308,2020-07-02,Training
+1,309,2020-07-03,Training
+1,310,2020-07-04,Training
+1,311,2020-07-05,Training
+1,312,2020-07-06,Training
+1,313,2020-07-07,Training
+1,314,2020-07-08,Training
+1,315,2020-07-09,Training
+1,316,2020-07-10,Training
+1,317,2020-07-11,Training
+1,318,2020-07-12,Training
+1,319,2020-07-13,Training
+1,320,2020-07-14,Training
+1,321,2020-07-15,Training
+1,322,2020-07-16,Training
+1,323,2020-07-17,Training
+1,324,2020-07-18,Training
+1,325,2020-07-19,Training
+1,326,2020-07-20,Training
+1,327,2020-07-21,Training
+1,328,2020-07-22,Training
+1,329,2020-07-23,Training
+1,330,2020-07-24,Training
+1,331,2020-07-25,Training
+1,332,2020-07-26,Training
+1,333,2020-07-27,Training
+1,334,2020-07-28,Training
+1,335,2020-07-29,Training
+1,336,2020-07-30,Training
+1,337,2020-07-31,Training
+1,338,2020-08-01,Training
+1,339,2020-08-02,Training
+1,340,2020-08-03,Training
+1,341,2020-08-04,Training
+1,342,2020-08-05,Training
+1,343,2020-08-06,Training
+1,344,2020-08-07,Training
+1,345,2020-08-08,Training
+1,346,2020-08-09,Training
+1,347,2020-08-10,Training
+1,348,2020-08-11,Training
+1,349,2020-08-12,Training
+1,350,2020-08-13,Training
+1,351,2020-08-14,Training
+1,352,2020-08-15,Training
+1,353,2020-08-16,Training
+1,354,2020-08-17,Training
+1,355,2020-08-18,Training
+1,356,2020-08-19,Training
+1,357,2020-08-20,Training
+1,358,2020-08-21,Training
+1,359,2020-08-22,Training
+1,360,2020-08-23,Training
+1,361,2020-08-24,Training
+1,362,2020-08-25,Training
+1,363,2020-08-26,Training
+1,364,2020-08-27,Training
+1,365,2020-08-28,Training
+2,1,2019-08-30,Training
+2,2,2019-08-31,Training
+2,3,2019-09-01,Training
+2,4,2019-09-02,Training
+2,5,2019-09-03,Training
+2,6,2019-09-04,Training
+2,7,2019-09-05,Training
+2,8,2019-09-06,Training
+2,9,2019-09-07,Training
+2,10,2019-09-08,Training
+2,11,2019-09-09,Training
+2,12,2019-09-10,Training
+2,13,2019-09-11,Training
+2,14,2019-09-12,Training
+2,15,2019-09-13,Training
+2,16,2019-09-14,Training
+2,17,2019-09-15,Training
+2,18,2019-09-16,Training
+2,19,2019-09-17,Training
+2,20,2019-09-18,Training
+2,21,2019-09-19,Training
+2,22,2019-09-20,Training
+2,23,2019-09-21,Training
+2,24,2019-09-22,Training
+2,25,2019-09-23,Training
+2,26,2019-09-24,Training
+2,27,2019-09-25,Training
+2,28,2019-09-26,Training
+2,29,2019-09-27,Training
+2,30,2019-09-28,Training
+2,31,2019-09-29,Training
+2,32,2019-09-30,Training
+2,33,2019-10-01,Training
+2,34,2019-10-02,Training
+2,35,2019-10-03,Training
+2,36,2019-10-04,Training
+2,37,2019-10-05,Training
+2,38,2019-10-06,Training
+2,39,2019-10-07,Training
+2,40,2019-10-08,Training
+2,41,2019-10-09,Training
+2,42,2019-10-10,Training
+2,43,2019-10-11,Training
+2,44,2019-10-12,Removed (buffer)
+2,45,2019-10-13,Removed (buffer)
+2,46,2019-10-14,Removed (buffer)
+2,47,2019-10-15,Removed (buffer)
+2,48,2019-10-16,Removed (buffer)
+2,49,2019-10-17,Removed (buffer)
+2,50,2019-10-18,Removed (buffer)
+2,51,2019-10-19,Removed (buffer)
+2,52,2019-10-20,Removed (buffer)
+2,53,2019-10-21,Removed (buffer)
+2,54,2019-10-22,Removed (buffer)
+2,55,2019-10-23,Removed (buffer)
+2,56,2019-10-24,Removed (buffer)
+2,57,2019-10-25,Removed (buffer)
+2,58,2019-10-26,Removed (buffer)
+2,59,2019-10-27,Removed (buffer)
+2,60,2019-10-28,Removed (buffer)
+2,61,2019-10-29,Removed (buffer)
+2,62,2019-10-30,Removed (buffer)
+2,63,2019-10-31,Removed (buffer)
+2,64,2019-11-01,Removed (buffer)
+2,65,2019-11-02,Removed (buffer)
+2,66,2019-11-03,Removed (buffer)
+2,67,2019-11-04,Removed (buffer)
+2,68,2019-11-05,Removed (buffer)
+2,69,2019-11-06,Removed (buffer)
+2,70,2019-11-07,Removed (buffer)
+2,71,2019-11-08,Removed (buffer)
+2,72,2019-11-09,Removed (buffer)
+2,73,2019-11-10,Removed (buffer)
+2,74,2019-11-11,Validation
+2,75,2019-11-12,Validation
+2,76,2019-11-13,Validation
+2,77,2019-11-14,Validation
+2,78,2019-11-15,Validation
+2,79,2019-11-16,Validation
+2,80,2019-11-17,Validation
+2,81,2019-11-18,Validation
+2,82,2019-11-19,Validation
+2,83,2019-11-20,Validation
+2,84,2019-11-21,Validation
+2,85,2019-11-22,Validation
+2,86,2019-11-23,Validation
+2,87,2019-11-24,Validation
+2,88,2019-11-25,Validation
+2,89,2019-11-26,Validation
+2,90,2019-11-27,Validation
+2,91,2019-11-28,Validation
+2,92,2019-11-29,Validation
+2,93,2019-11-30,Validation
+2,94,2019-12-01,Validation
+2,95,2019-12-02,Validation
+2,96,2019-12-03,Validation
+2,97,2019-12-04,Validation
+2,98,2019-12-05,Validation
+2,99,2019-12-06,Validation
+2,100,2019-12-07,Validation
+2,101,2019-12-08,Validation
+2,102,2019-12-09,Validation
+2,103,2019-12-10,Validation
+2,104,2019-12-11,Validation
+2,105,2019-12-12,Validation
+2,106,2019-12-13,Validation
+2,107,2019-12-14,Validation
+2,108,2019-12-15,Validation
+2,109,2019-12-16,Validation
+2,110,2019-12-17,Validation
+2,111,2019-12-18,Validation
+2,112,2019-12-19,Validation
+2,113,2019-12-20,Validation
+2,114,2019-12-21,Validation
+2,115,2019-12-22,Validation
+2,116,2019-12-23,Validation
+2,117,2019-12-24,Validation
+2,118,2019-12-25,Validation
+2,119,2019-12-26,Validation
+2,120,2019-12-27,Validation
+2,121,2019-12-28,Validation
+2,122,2019-12-29,Validation
+2,123,2019-12-30,Validation
+2,124,2019-12-31,Validation
+2,125,2020-01-01,Validation
+2,126,2020-01-02,Validation
+2,127,2020-01-03,Validation
+2,128,2020-01-04,Validation
+2,129,2020-01-05,Validation
+2,130,2020-01-06,Validation
+2,131,2020-01-07,Validation
+2,132,2020-01-08,Validation
+2,133,2020-01-09,Validation
+2,134,2020-01-10,Validation
+2,135,2020-01-11,Validation
+2,136,2020-01-12,Validation
+2,137,2020-01-13,Validation
+2,138,2020-01-14,Validation
+2,139,2020-01-15,Validation
+2,140,2020-01-16,Validation
+2,141,2020-01-17,Validation
+2,142,2020-01-18,Validation
+2,143,2020-01-19,Validation
+2,144,2020-01-20,Validation
+2,145,2020-01-21,Validation
+2,146,2020-01-22,Validation
+2,147,2020-01-23,Removed (buffer)
+2,148,2020-01-24,Removed (buffer)
+2,149,2020-01-25,Removed (buffer)
+2,150,2020-01-26,Removed (buffer)
+2,151,2020-01-27,Removed (buffer)
+2,152,2020-01-28,Removed (buffer)
+2,153,2020-01-29,Removed (buffer)
+2,154,2020-01-30,Removed (buffer)
+2,155,2020-01-31,Removed (buffer)
+2,156,2020-02-01,Removed (buffer)
+2,157,2020-02-02,Removed (buffer)
+2,158,2020-02-03,Removed (buffer)
+2,159,2020-02-04,Removed (buffer)
+2,160,2020-02-05,Removed (buffer)
+2,161,2020-02-06,Removed (buffer)
+2,162,2020-02-07,Removed (buffer)
+2,163,2020-02-08,Removed (buffer)
+2,164,2020-02-09,Removed (buffer)
+2,165,2020-02-10,Removed (buffer)
+2,166,2020-02-11,Removed (buffer)
+2,167,2020-02-12,Removed (buffer)
+2,168,2020-02-13,Removed (buffer)
+2,169,2020-02-14,Removed (buffer)
+2,170,2020-02-15,Removed (buffer)
+2,171,2020-02-16,Removed (buffer)
+2,172,2020-02-17,Removed (buffer)
+2,173,2020-02-18,Removed (buffer)
+2,174,2020-02-19,Removed (buffer)
+2,175,2020-02-20,Removed (buffer)
+2,176,2020-02-21,Removed (buffer)
+2,177,2020-02-22,Training
+2,178,2020-02-23,Training
+2,179,2020-02-24,Training
+2,180,2020-02-25,Training
+2,181,2020-02-26,Training
+2,182,2020-02-27,Training
+2,183,2020-02-28,Training
+2,184,2020-02-29,Training
+2,185,2020-03-01,Training
+2,186,2020-03-02,Training
+2,187,2020-03-03,Training
+2,188,2020-03-04,Training
+2,189,2020-03-05,Training
+2,190,2020-03-06,Training
+2,191,2020-03-07,Training
+2,192,2020-03-08,Training
+2,193,2020-03-09,Training
+2,194,2020-03-10,Training
+2,195,2020-03-11,Training
+2,196,2020-03-12,Training
+2,197,2020-03-13,Training
+2,198,2020-03-14,Training
+2,199,2020-03-15,Training
+2,200,2020-03-16,Training
+2,201,2020-03-17,Training
+2,202,2020-03-18,Training
+2,203,2020-03-19,Training
+2,204,2020-03-20,Training
+2,205,2020-03-21,Training
+2,206,2020-03-22,Training
+2,207,2020-03-23,Training
+2,208,2020-03-24,Training
+2,209,2020-03-25,Training
+2,210,2020-03-26,Training
+2,211,2020-03-27,Training
+2,212,2020-03-28,Training
+2,213,2020-03-29,Training
+2,214,2020-03-30,Training
+2,215,2020-03-31,Training
+2,216,2020-04-01,Training
+2,217,2020-04-02,Training
+2,218,2020-04-03,Training
+2,219,2020-04-04,Training
+2,220,2020-04-05,Training
+2,221,2020-04-06,Training
+2,222,2020-04-07,Training
+2,223,2020-04-08,Training
+2,224,2020-04-09,Training
+2,225,2020-04-10,Training
+2,226,2020-04-11,Training
+2,227,2020-04-12,Training
+2,228,2020-04-13,Training
+2,229,2020-04-14,Training
+2,230,2020-04-15,Training
+2,231,2020-04-16,Training
+2,232,2020-04-17,Training
+2,233,2020-04-18,Training
+2,234,2020-04-19,Training
+2,235,2020-04-20,Training
+2,236,2020-04-21,Training
+2,237,2020-04-22,Training
+2,238,2020-04-23,Training
+2,239,2020-04-24,Training
+2,240,2020-04-25,Training
+2,241,2020-04-26,Training
+2,242,2020-04-27,Training
+2,243,2020-04-28,Training
+2,244,2020-04-29,Training
+2,245,2020-04-30,Training
+2,246,2020-05-01,Training
+2,247,2020-05-02,Training
+2,248,2020-05-03,Training
+2,249,2020-05-04,Training
+2,250,2020-05-05,Training
+2,251,2020-05-06,Training
+2,252,2020-05-07,Training
+2,253,2020-05-08,Training
+2,254,2020-05-09,Training
+2,255,2020-05-10,Training
+2,256,2020-05-11,Training
+2,257,2020-05-12,Training
+2,258,2020-05-13,Training
+2,259,2020-05-14,Training
+2,260,2020-05-15,Training
+2,261,2020-05-16,Training
+2,262,2020-05-17,Training
+2,263,2020-05-18,Training
+2,264,2020-05-19,Training
+2,265,2020-05-20,Training
+2,266,2020-05-21,Training
+2,267,2020-05-22,Training
+2,268,2020-05-23,Training
+2,269,2020-05-24,Training
+2,270,2020-05-25,Training
+2,271,2020-05-26,Training
+2,272,2020-05-27,Training
+2,273,2020-05-28,Training
+2,274,2020-05-29,Training
+2,275,2020-05-30,Training
+2,276,2020-05-31,Training
+2,277,2020-06-01,Training
+2,278,2020-06-02,Training
+2,279,2020-06-03,Training
+2,280,2020-06-04,Training
+2,281,2020-06-05,Training
+2,282,2020-06-06,Training
+2,283,2020-06-07,Training
+2,284,2020-06-08,Training
+2,285,2020-06-09,Training
+2,286,2020-06-10,Training
+2,287,2020-06-11,Training
+2,288,2020-06-12,Training
+2,289,2020-06-13,Training
+2,290,2020-06-14,Training
+2,291,2020-06-15,Training
+2,292,2020-06-16,Training
+2,293,2020-06-17,Training
+2,294,2020-06-18,Training
+2,295,2020-06-19,Training
+2,296,2020-06-20,Training
+2,297,2020-06-21,Training
+2,298,2020-06-22,Training
+2,299,2020-06-23,Training
+2,300,2020-06-24,Training
+2,301,2020-06-25,Training
+2,302,2020-06-26,Training
+2,303,2020-06-27,Training
+2,304,2020-06-28,Training
+2,305,2020-06-29,Training
+2,306,2020-06-30,Training
+2,307,2020-07-01,Training
+2,308,2020-07-02,Training
+2,309,2020-07-03,Training
+2,310,2020-07-04,Training
+2,311,2020-07-05,Training
+2,312,2020-07-06,Training
+2,313,2020-07-07,Training
+2,314,2020-07-08,Training
+2,315,2020-07-09,Training
+2,316,2020-07-10,Training
+2,317,2020-07-11,Training
+2,318,2020-07-12,Training
+2,319,2020-07-13,Training
+2,320,2020-07-14,Training
+2,321,2020-07-15,Training
+2,322,2020-07-16,Training
+2,323,2020-07-17,Training
+2,324,2020-07-18,Training
+2,325,2020-07-19,Training
+2,326,2020-07-20,Training
+2,327,2020-07-21,Training
+2,328,2020-07-22,Training
+2,329,2020-07-23,Training
+2,330,2020-07-24,Training
+2,331,2020-07-25,Training
+2,332,2020-07-26,Training
+2,333,2020-07-27,Training
+2,334,2020-07-28,Training
+2,335,2020-07-29,Training
+2,336,2020-07-30,Training
+2,337,2020-07-31,Training
+2,338,2020-08-01,Training
+2,339,2020-08-02,Training
+2,340,2020-08-03,Training
+2,341,2020-08-04,Training
+2,342,2020-08-05,Training
+2,343,2020-08-06,Training
+2,344,2020-08-07,Training
+2,345,2020-08-08,Training
+2,346,2020-08-09,Training
+2,347,2020-08-10,Training
+2,348,2020-08-11,Training
+2,349,2020-08-12,Training
+2,350,2020-08-13,Training
+2,351,2020-08-14,Training
+2,352,2020-08-15,Training
+2,353,2020-08-16,Training
+2,354,2020-08-17,Training
+2,355,2020-08-18,Training
+2,356,2020-08-19,Training
+2,357,2020-08-20,Training
+2,358,2020-08-21,Training
+2,359,2020-08-22,Training
+2,360,2020-08-23,Training
+2,361,2020-08-24,Training
+2,362,2020-08-25,Training
+2,363,2020-08-26,Training
+2,364,2020-08-27,Training
+2,365,2020-08-28,Training
+3,1,2019-08-30,Training
+3,2,2019-08-31,Training
+3,3,2019-09-01,Training
+3,4,2019-09-02,Training
+3,5,2019-09-03,Training
+3,6,2019-09-04,Training
+3,7,2019-09-05,Training
+3,8,2019-09-06,Training
+3,9,2019-09-07,Training
+3,10,2019-09-08,Training
+3,11,2019-09-09,Training
+3,12,2019-09-10,Training
+3,13,2019-09-11,Training
+3,14,2019-09-12,Training
+3,15,2019-09-13,Training
+3,16,2019-09-14,Training
+3,17,2019-09-15,Training
+3,18,2019-09-16,Training
+3,19,2019-09-17,Training
+3,20,2019-09-18,Training
+3,21,2019-09-19,Training
+3,22,2019-09-20,Training
+3,23,2019-09-21,Training
+3,24,2019-09-22,Training
+3,25,2019-09-23,Training
+3,26,2019-09-24,Training
+3,27,2019-09-25,Training
+3,28,2019-09-26,Training
+3,29,2019-09-27,Training
+3,30,2019-09-28,Training
+3,31,2019-09-29,Training
+3,32,2019-09-30,Training
+3,33,2019-10-01,Training
+3,34,2019-10-02,Training
+3,35,2019-10-03,Training
+3,36,2019-10-04,Training
+3,37,2019-10-05,Training
+3,38,2019-10-06,Training
+3,39,2019-10-07,Training
+3,40,2019-10-08,Training
+3,41,2019-10-09,Training
+3,42,2019-10-10,Training
+3,43,2019-10-11,Training
+3,44,2019-10-12,Training
+3,45,2019-10-13,Training
+3,46,2019-10-14,Training
+3,47,2019-10-15,Training
+3,48,2019-10-16,Training
+3,49,2019-10-17,Training
+3,50,2019-10-18,Training
+3,51,2019-10-19,Training
+3,52,2019-10-20,Training
+3,53,2019-10-21,Training
+3,54,2019-10-22,Training
+3,55,2019-10-23,Training
+3,56,2019-10-24,Training
+3,57,2019-10-25,Training
+3,58,2019-10-26,Training
+3,59,2019-10-27,Training
+3,60,2019-10-28,Training
+3,61,2019-10-29,Training
+3,62,2019-10-30,Training
+3,63,2019-10-31,Training
+3,64,2019-11-01,Training
+3,65,2019-11-02,Training
+3,66,2019-11-03,Training
+3,67,2019-11-04,Training
+3,68,2019-11-05,Training
+3,69,2019-11-06,Training
+3,70,2019-11-07,Training
+3,71,2019-11-08,Training
+3,72,2019-11-09,Training
+3,73,2019-11-10,Training
+3,74,2019-11-11,Training
+3,75,2019-11-12,Training
+3,76,2019-11-13,Training
+3,77,2019-11-14,Training
+3,78,2019-11-15,Training
+3,79,2019-11-16,Training
+3,80,2019-11-17,Training
+3,81,2019-11-18,Training
+3,82,2019-11-19,Training
+3,83,2019-11-20,Training
+3,84,2019-11-21,Training
+3,85,2019-11-22,Training
+3,86,2019-11-23,Training
+3,87,2019-11-24,Training
+3,88,2019-11-25,Training
+3,89,2019-11-26,Training
+3,90,2019-11-27,Training
+3,91,2019-11-28,Training
+3,92,2019-11-29,Training
+3,93,2019-11-30,Training
+3,94,2019-12-01,Training
+3,95,2019-12-02,Training
+3,96,2019-12-03,Training
+3,97,2019-12-04,Training
+3,98,2019-12-05,Training
+3,99,2019-12-06,Training
+3,100,2019-12-07,Training
+3,101,2019-12-08,Training
+3,102,2019-12-09,Training
+3,103,2019-12-10,Training
+3,104,2019-12-11,Training
+3,105,2019-12-12,Training
+3,106,2019-12-13,Training
+3,107,2019-12-14,Training
+3,108,2019-12-15,Training
+3,109,2019-12-16,Training
+3,110,2019-12-17,Training
+3,111,2019-12-18,Training
+3,112,2019-12-19,Training
+3,113,2019-12-20,Training
+3,114,2019-12-21,Training
+3,115,2019-12-22,Training
+3,116,2019-12-23,Training
+3,117,2019-12-24,Removed (buffer)
+3,118,2019-12-25,Removed (buffer)
+3,119,2019-12-26,Removed (buffer)
+3,120,2019-12-27,Removed (buffer)
+3,121,2019-12-28,Removed (buffer)
+3,122,2019-12-29,Removed (buffer)
+3,123,2019-12-30,Removed (buffer)
+3,124,2019-12-31,Removed (buffer)
+3,125,2020-01-01,Removed (buffer)
+3,126,2020-01-02,Removed (buffer)
+3,127,2020-01-03,Removed (buffer)
+3,128,2020-01-04,Removed (buffer)
+3,129,2020-01-05,Removed (buffer)
+3,130,2020-01-06,Removed (buffer)
+3,131,2020-01-07,Removed (buffer)
+3,132,2020-01-08,Removed (buffer)
+3,133,2020-01-09,Removed (buffer)
+3,134,2020-01-10,Removed (buffer)
+3,135,2020-01-11,Removed (buffer)
+3,136,2020-01-12,Removed (buffer)
+3,137,2020-01-13,Removed (buffer)
+3,138,2020-01-14,Removed (buffer)
+3,139,2020-01-15,Removed (buffer)
+3,140,2020-01-16,Removed (buffer)
+3,141,2020-01-17,Removed (buffer)
+3,142,2020-01-18,Removed (buffer)
+3,143,2020-01-19,Removed (buffer)
+3,144,2020-01-20,Removed (buffer)
+3,145,2020-01-21,Removed (buffer)
+3,146,2020-01-22,Removed (buffer)
+3,147,2020-01-23,Validation
+3,148,2020-01-24,Validation
+3,149,2020-01-25,Validation
+3,150,2020-01-26,Validation
+3,151,2020-01-27,Validation
+3,152,2020-01-28,Validation
+3,153,2020-01-29,Validation
+3,154,2020-01-30,Validation
+3,155,2020-01-31,Validation
+3,156,2020-02-01,Validation
+3,157,2020-02-02,Validation
+3,158,2020-02-03,Validation
+3,159,2020-02-04,Validation
+3,160,2020-02-05,Validation
+3,161,2020-02-06,Validation
+3,162,2020-02-07,Validation
+3,163,2020-02-08,Validation
+3,164,2020-02-09,Validation
+3,165,2020-02-10,Validation
+3,166,2020-02-11,Validation
+3,167,2020-02-12,Validation
+3,168,2020-02-13,Validation
+3,169,2020-02-14,Validation
+3,170,2020-02-15,Validation
+3,171,2020-02-16,Validation
+3,172,2020-02-17,Validation
+3,173,2020-02-18,Validation
+3,174,2020-02-19,Validation
+3,175,2020-02-20,Validation
+3,176,2020-02-21,Validation
+3,177,2020-02-22,Validation
+3,178,2020-02-23,Validation
+3,179,2020-02-24,Validation
+3,180,2020-02-25,Validation
+3,181,2020-02-26,Validation
+3,182,2020-02-27,Validation
+3,183,2020-02-28,Validation
+3,184,2020-02-29,Validation
+3,185,2020-03-01,Validation
+3,186,2020-03-02,Validation
+3,187,2020-03-03,Validation
+3,188,2020-03-04,Validation
+3,189,2020-03-05,Validation
+3,190,2020-03-06,Validation
+3,191,2020-03-07,Validation
+3,192,2020-03-08,Validation
+3,193,2020-03-09,Validation
+3,194,2020-03-10,Validation
+3,195,2020-03-11,Validation
+3,196,2020-03-12,Validation
+3,197,2020-03-13,Validation
+3,198,2020-03-14,Validation
+3,199,2020-03-15,Validation
+3,200,2020-03-16,Validation
+3,201,2020-03-17,Validation
+3,202,2020-03-18,Validation
+3,203,2020-03-19,Validation
+3,204,2020-03-20,Validation
+3,205,2020-03-21,Validation
+3,206,2020-03-22,Validation
+3,207,2020-03-23,Validation
+3,208,2020-03-24,Validation
+3,209,2020-03-25,Validation
+3,210,2020-03-26,Validation
+3,211,2020-03-27,Validation
+3,212,2020-03-28,Validation
+3,213,2020-03-29,Validation
+3,214,2020-03-30,Validation
+3,215,2020-03-31,Validation
+3,216,2020-04-01,Validation
+3,217,2020-04-02,Validation
+3,218,2020-04-03,Validation
+3,219,2020-04-04,Validation
+3,220,2020-04-05,Removed (buffer)
+3,221,2020-04-06,Removed (buffer)
+3,222,2020-04-07,Removed (buffer)
+3,223,2020-04-08,Removed (buffer)
+3,224,2020-04-09,Removed (buffer)
+3,225,2020-04-10,Removed (buffer)
+3,226,2020-04-11,Removed (buffer)
+3,227,2020-04-12,Removed (buffer)
+3,228,2020-04-13,Removed (buffer)
+3,229,2020-04-14,Removed (buffer)
+3,230,2020-04-15,Removed (buffer)
+3,231,2020-04-16,Removed (buffer)
+3,232,2020-04-17,Removed (buffer)
+3,233,2020-04-18,Removed (buffer)
+3,234,2020-04-19,Removed (buffer)
+3,235,2020-04-20,Removed (buffer)
+3,236,2020-04-21,Removed (buffer)
+3,237,2020-04-22,Removed (buffer)
+3,238,2020-04-23,Removed (buffer)
+3,239,2020-04-24,Removed (buffer)
+3,240,2020-04-25,Removed (buffer)
+3,241,2020-04-26,Removed (buffer)
+3,242,2020-04-27,Removed (buffer)
+3,243,2020-04-28,Removed (buffer)
+3,244,2020-04-29,Removed (buffer)
+3,245,2020-04-30,Removed (buffer)
+3,246,2020-05-01,Removed (buffer)
+3,247,2020-05-02,Removed (buffer)
+3,248,2020-05-03,Removed (buffer)
+3,249,2020-05-04,Removed (buffer)
+3,250,2020-05-05,Training
+3,251,2020-05-06,Training
+3,252,2020-05-07,Training
+3,253,2020-05-08,Training
+3,254,2020-05-09,Training
+3,255,2020-05-10,Training
+3,256,2020-05-11,Training
+3,257,2020-05-12,Training
+3,258,2020-05-13,Training
+3,259,2020-05-14,Training
+3,260,2020-05-15,Training
+3,261,2020-05-16,Training
+3,262,2020-05-17,Training
+3,263,2020-05-18,Training
+3,264,2020-05-19,Training
+3,265,2020-05-20,Training
+3,266,2020-05-21,Training
+3,267,2020-05-22,Training
+3,268,2020-05-23,Training
+3,269,2020-05-24,Training
+3,270,2020-05-25,Training
+3,271,2020-05-26,Training
+3,272,2020-05-27,Training
+3,273,2020-05-28,Training
+3,274,2020-05-29,Training
+3,275,2020-05-30,Training
+3,276,2020-05-31,Training
+3,277,2020-06-01,Training
+3,278,2020-06-02,Training
+3,279,2020-06-03,Training
+3,280,2020-06-04,Training
+3,281,2020-06-05,Training
+3,282,2020-06-06,Training
+3,283,2020-06-07,Training
+3,284,2020-06-08,Training
+3,285,2020-06-09,Training
+3,286,2020-06-10,Training
+3,287,2020-06-11,Training
+3,288,2020-06-12,Training
+3,289,2020-06-13,Training
+3,290,2020-06-14,Training
+3,291,2020-06-15,Training
+3,292,2020-06-16,Training
+3,293,2020-06-17,Training
+3,294,2020-06-18,Training
+3,295,2020-06-19,Training
+3,296,2020-06-20,Training
+3,297,2020-06-21,Training
+3,298,2020-06-22,Training
+3,299,2020-06-23,Training
+3,300,2020-06-24,Training
+3,301,2020-06-25,Training
+3,302,2020-06-26,Training
+3,303,2020-06-27,Training
+3,304,2020-06-28,Training
+3,305,2020-06-29,Training
+3,306,2020-06-30,Training
+3,307,2020-07-01,Training
+3,308,2020-07-02,Training
+3,309,2020-07-03,Training
+3,310,2020-07-04,Training
+3,311,2020-07-05,Training
+3,312,2020-07-06,Training
+3,313,2020-07-07,Training
+3,314,2020-07-08,Training
+3,315,2020-07-09,Training
+3,316,2020-07-10,Training
+3,317,2020-07-11,Training
+3,318,2020-07-12,Training
+3,319,2020-07-13,Training
+3,320,2020-07-14,Training
+3,321,2020-07-15,Training
+3,322,2020-07-16,Training
+3,323,2020-07-17,Training
+3,324,2020-07-18,Training
+3,325,2020-07-19,Training
+3,326,2020-07-20,Training
+3,327,2020-07-21,Training
+3,328,2020-07-22,Training
+3,329,2020-07-23,Training
+3,330,2020-07-24,Training
+3,331,2020-07-25,Training
+3,332,2020-07-26,Training
+3,333,2020-07-27,Training
+3,334,2020-07-28,Training
+3,335,2020-07-29,Training
+3,336,2020-07-30,Training
+3,337,2020-07-31,Training
+3,338,2020-08-01,Training
+3,339,2020-08-02,Training
+3,340,2020-08-03,Training
+3,341,2020-08-04,Training
+3,342,2020-08-05,Training
+3,343,2020-08-06,Training
+3,344,2020-08-07,Training
+3,345,2020-08-08,Training
+3,346,2020-08-09,Training
+3,347,2020-08-10,Training
+3,348,2020-08-11,Training
+3,349,2020-08-12,Training
+3,350,2020-08-13,Training
+3,351,2020-08-14,Training
+3,352,2020-08-15,Training
+3,353,2020-08-16,Training
+3,354,2020-08-17,Training
+3,355,2020-08-18,Training
+3,356,2020-08-19,Training
+3,357,2020-08-20,Training
+3,358,2020-08-21,Training
+3,359,2020-08-22,Training
+3,360,2020-08-23,Training
+3,361,2020-08-24,Training
+3,362,2020-08-25,Training
+3,363,2020-08-26,Training
+3,364,2020-08-27,Training
+3,365,2020-08-28,Training
+4,1,2019-08-30,Training
+4,2,2019-08-31,Training
+4,3,2019-09-01,Training
+4,4,2019-09-02,Training
+4,5,2019-09-03,Training
+4,6,2019-09-04,Training
+4,7,2019-09-05,Training
+4,8,2019-09-06,Training
+4,9,2019-09-07,Training
+4,10,2019-09-08,Training
+4,11,2019-09-09,Training
+4,12,2019-09-10,Training
+4,13,2019-09-11,Training
+4,14,2019-09-12,Training
+4,15,2019-09-13,Training
+4,16,2019-09-14,Training
+4,17,2019-09-15,Training
+4,18,2019-09-16,Training
+4,19,2019-09-17,Training
+4,20,2019-09-18,Training
+4,21,2019-09-19,Training
+4,22,2019-09-20,Training
+4,23,2019-09-21,Training
+4,24,2019-09-22,Training
+4,25,2019-09-23,Training
+4,26,2019-09-24,Training
+4,27,2019-09-25,Training
+4,28,2019-09-26,Training
+4,29,2019-09-27,Training
+4,30,2019-09-28,Training
+4,31,2019-09-29,Training
+4,32,2019-09-30,Training
+4,33,2019-10-01,Training
+4,34,2019-10-02,Training
+4,35,2019-10-03,Training
+4,36,2019-10-04,Training
+4,37,2019-10-05,Training
+4,38,2019-10-06,Training
+4,39,2019-10-07,Training
+4,40,2019-10-08,Training
+4,41,2019-10-09,Training
+4,42,2019-10-10,Training
+4,43,2019-10-11,Training
+4,44,2019-10-12,Training
+4,45,2019-10-13,Training
+4,46,2019-10-14,Training
+4,47,2019-10-15,Training
+4,48,2019-10-16,Training
+4,49,2019-10-17,Training
+4,50,2019-10-18,Training
+4,51,2019-10-19,Training
+4,52,2019-10-20,Training
+4,53,2019-10-21,Training
+4,54,2019-10-22,Training
+4,55,2019-10-23,Training
+4,56,2019-10-24,Training
+4,57,2019-10-25,Training
+4,58,2019-10-26,Training
+4,59,2019-10-27,Training
+4,60,2019-10-28,Training
+4,61,2019-10-29,Training
+4,62,2019-10-30,Training
+4,63,2019-10-31,Training
+4,64,2019-11-01,Training
+4,65,2019-11-02,Training
+4,66,2019-11-03,Training
+4,67,2019-11-04,Training
+4,68,2019-11-05,Training
+4,69,2019-11-06,Training
+4,70,2019-11-07,Training
+4,71,2019-11-08,Training
+4,72,2019-11-09,Training
+4,73,2019-11-10,Training
+4,74,2019-11-11,Training
+4,75,2019-11-12,Training
+4,76,2019-11-13,Training
+4,77,2019-11-14,Training
+4,78,2019-11-15,Training
+4,79,2019-11-16,Training
+4,80,2019-11-17,Training
+4,81,2019-11-18,Training
+4,82,2019-11-19,Training
+4,83,2019-11-20,Training
+4,84,2019-11-21,Training
+4,85,2019-11-22,Training
+4,86,2019-11-23,Training
+4,87,2019-11-24,Training
+4,88,2019-11-25,Training
+4,89,2019-11-26,Training
+4,90,2019-11-27,Training
+4,91,2019-11-28,Training
+4,92,2019-11-29,Training
+4,93,2019-11-30,Training
+4,94,2019-12-01,Training
+4,95,2019-12-02,Training
+4,96,2019-12-03,Training
+4,97,2019-12-04,Training
+4,98,2019-12-05,Training
+4,99,2019-12-06,Training
+4,100,2019-12-07,Training
+4,101,2019-12-08,Training
+4,102,2019-12-09,Training
+4,103,2019-12-10,Training
+4,104,2019-12-11,Training
+4,105,2019-12-12,Training
+4,106,2019-12-13,Training
+4,107,2019-12-14,Training
+4,108,2019-12-15,Training
+4,109,2019-12-16,Training
+4,110,2019-12-17,Training
+4,111,2019-12-18,Training
+4,112,2019-12-19,Training
+4,113,2019-12-20,Training
+4,114,2019-12-21,Training
+4,115,2019-12-22,Training
+4,116,2019-12-23,Training
+4,117,2019-12-24,Training
+4,118,2019-12-25,Training
+4,119,2019-12-26,Training
+4,120,2019-12-27,Training
+4,121,2019-12-28,Training
+4,122,2019-12-29,Training
+4,123,2019-12-30,Training
+4,124,2019-12-31,Training
+4,125,2020-01-01,Training
+4,126,2020-01-02,Training
+4,127,2020-01-03,Training
+4,128,2020-01-04,Training
+4,129,2020-01-05,Training
+4,130,2020-01-06,Training
+4,131,2020-01-07,Training
+4,132,2020-01-08,Training
+4,133,2020-01-09,Training
+4,134,2020-01-10,Training
+4,135,2020-01-11,Training
+4,136,2020-01-12,Training
+4,137,2020-01-13,Training
+4,138,2020-01-14,Training
+4,139,2020-01-15,Training
+4,140,2020-01-16,Training
+4,141,2020-01-17,Training
+4,142,2020-01-18,Training
+4,143,2020-01-19,Training
+4,144,2020-01-20,Training
+4,145,2020-01-21,Training
+4,146,2020-01-22,Training
+4,147,2020-01-23,Training
+4,148,2020-01-24,Training
+4,149,2020-01-25,Training
+4,150,2020-01-26,Training
+4,151,2020-01-27,Training
+4,152,2020-01-28,Training
+4,153,2020-01-29,Training
+4,154,2020-01-30,Training
+4,155,2020-01-31,Training
+4,156,2020-02-01,Training
+4,157,2020-02-02,Training
+4,158,2020-02-03,Training
+4,159,2020-02-04,Training
+4,160,2020-02-05,Training
+4,161,2020-02-06,Training
+4,162,2020-02-07,Training
+4,163,2020-02-08,Training
+4,164,2020-02-09,Training
+4,165,2020-02-10,Training
+4,166,2020-02-11,Training
+4,167,2020-02-12,Training
+4,168,2020-02-13,Training
+4,169,2020-02-14,Training
+4,170,2020-02-15,Training
+4,171,2020-02-16,Training
+4,172,2020-02-17,Training
+4,173,2020-02-18,Training
+4,174,2020-02-19,Training
+4,175,2020-02-20,Training
+4,176,2020-02-21,Training
+4,177,2020-02-22,Training
+4,178,2020-02-23,Training
+4,179,2020-02-24,Training
+4,180,2020-02-25,Training
+4,181,2020-02-26,Training
+4,182,2020-02-27,Training
+4,183,2020-02-28,Training
+4,184,2020-02-29,Training
+4,185,2020-03-01,Training
+4,186,2020-03-02,Training
+4,187,2020-03-03,Training
+4,188,2020-03-04,Training
+4,189,2020-03-05,Training
+4,190,2020-03-06,Removed (buffer)
+4,191,2020-03-07,Removed (buffer)
+4,192,2020-03-08,Removed (buffer)
+4,193,2020-03-09,Removed (buffer)
+4,194,2020-03-10,Removed (buffer)
+4,195,2020-03-11,Removed (buffer)
+4,196,2020-03-12,Removed (buffer)
+4,197,2020-03-13,Removed (buffer)
+4,198,2020-03-14,Removed (buffer)
+4,199,2020-03-15,Removed (buffer)
+4,200,2020-03-16,Removed (buffer)
+4,201,2020-03-17,Removed (buffer)
+4,202,2020-03-18,Removed (buffer)
+4,203,2020-03-19,Removed (buffer)
+4,204,2020-03-20,Removed (buffer)
+4,205,2020-03-21,Removed (buffer)
+4,206,2020-03-22,Removed (buffer)
+4,207,2020-03-23,Removed (buffer)
+4,208,2020-03-24,Removed (buffer)
+4,209,2020-03-25,Removed (buffer)
+4,210,2020-03-26,Removed (buffer)
+4,211,2020-03-27,Removed (buffer)
+4,212,2020-03-28,Removed (buffer)
+4,213,2020-03-29,Removed (buffer)
+4,214,2020-03-30,Removed (buffer)
+4,215,2020-03-31,Removed (buffer)
+4,216,2020-04-01,Removed (buffer)
+4,217,2020-04-02,Removed (buffer)
+4,218,2020-04-03,Removed (buffer)
+4,219,2020-04-04,Removed (buffer)
+4,220,2020-04-05,Validation
+4,221,2020-04-06,Validation
+4,222,2020-04-07,Validation
+4,223,2020-04-08,Validation
+4,224,2020-04-09,Validation
+4,225,2020-04-10,Validation
+4,226,2020-04-11,Validation
+4,227,2020-04-12,Validation
+4,228,2020-04-13,Validation
+4,229,2020-04-14,Validation
+4,230,2020-04-15,Validation
+4,231,2020-04-16,Validation
+4,232,2020-04-17,Validation
+4,233,2020-04-18,Validation
+4,234,2020-04-19,Validation
+4,235,2020-04-20,Validation
+4,236,2020-04-21,Validation
+4,237,2020-04-22,Validation
+4,238,2020-04-23,Validation
+4,239,2020-04-24,Validation
+4,240,2020-04-25,Validation
+4,241,2020-04-26,Validation
+4,242,2020-04-27,Validation
+4,243,2020-04-28,Validation
+4,244,2020-04-29,Validation
+4,245,2020-04-30,Validation
+4,246,2020-05-01,Validation
+4,247,2020-05-02,Validation
+4,248,2020-05-03,Validation
+4,249,2020-05-04,Validation
+4,250,2020-05-05,Validation
+4,251,2020-05-06,Validation
+4,252,2020-05-07,Validation
+4,253,2020-05-08,Validation
+4,254,2020-05-09,Validation
+4,255,2020-05-10,Validation
+4,256,2020-05-11,Validation
+4,257,2020-05-12,Validation
+4,258,2020-05-13,Validation
+4,259,2020-05-14,Validation
+4,260,2020-05-15,Validation
+4,261,2020-05-16,Validation
+4,262,2020-05-17,Validation
+4,263,2020-05-18,Validation
+4,264,2020-05-19,Validation
+4,265,2020-05-20,Validation
+4,266,2020-05-21,Validation
+4,267,2020-05-22,Validation
+4,268,2020-05-23,Validation
+4,269,2020-05-24,Validation
+4,270,2020-05-25,Validation
+4,271,2020-05-26,Validation
+4,272,2020-05-27,Validation
+4,273,2020-05-28,Validation
+4,274,2020-05-29,Validation
+4,275,2020-05-30,Validation
+4,276,2020-05-31,Validation
+4,277,2020-06-01,Validation
+4,278,2020-06-02,Validation
+4,279,2020-06-03,Validation
+4,280,2020-06-04,Validation
+4,281,2020-06-05,Validation
+4,282,2020-06-06,Validation
+4,283,2020-06-07,Validation
+4,284,2020-06-08,Validation
+4,285,2020-06-09,Validation
+4,286,2020-06-10,Validation
+4,287,2020-06-11,Validation
+4,288,2020-06-12,Validation
+4,289,2020-06-13,Validation
+4,290,2020-06-14,Validation
+4,291,2020-06-15,Validation
+4,292,2020-06-16,Validation
+4,293,2020-06-17,Removed (buffer)
+4,294,2020-06-18,Removed (buffer)
+4,295,2020-06-19,Removed (buffer)
+4,296,2020-06-20,Removed (buffer)
+4,297,2020-06-21,Removed (buffer)
+4,298,2020-06-22,Removed (buffer)
+4,299,2020-06-23,Removed (buffer)
+4,300,2020-06-24,Removed (buffer)
+4,301,2020-06-25,Removed (buffer)
+4,302,2020-06-26,Removed (buffer)
+4,303,2020-06-27,Removed (buffer)
+4,304,2020-06-28,Removed (buffer)
+4,305,2020-06-29,Removed (buffer)
+4,306,2020-06-30,Removed (buffer)
+4,307,2020-07-01,Removed (buffer)
+4,308,2020-07-02,Removed (buffer)
+4,309,2020-07-03,Removed (buffer)
+4,310,2020-07-04,Removed (buffer)
+4,311,2020-07-05,Removed (buffer)
+4,312,2020-07-06,Removed (buffer)
+4,313,2020-07-07,Removed (buffer)
+4,314,2020-07-08,Removed (buffer)
+4,315,2020-07-09,Removed (buffer)
+4,316,2020-07-10,Removed (buffer)
+4,317,2020-07-11,Removed (buffer)
+4,318,2020-07-12,Removed (buffer)
+4,319,2020-07-13,Removed (buffer)
+4,320,2020-07-14,Removed (buffer)
+4,321,2020-07-15,Removed (buffer)
+4,322,2020-07-16,Removed (buffer)
+4,323,2020-07-17,Training
+4,324,2020-07-18,Training
+4,325,2020-07-19,Training
+4,326,2020-07-20,Training
+4,327,2020-07-21,Training
+4,328,2020-07-22,Training
+4,329,2020-07-23,Training
+4,330,2020-07-24,Training
+4,331,2020-07-25,Training
+4,332,2020-07-26,Training
+4,333,2020-07-27,Training
+4,334,2020-07-28,Training
+4,335,2020-07-29,Training
+4,336,2020-07-30,Training
+4,337,2020-07-31,Training
+4,338,2020-08-01,Training
+4,339,2020-08-02,Training
+4,340,2020-08-03,Training
+4,341,2020-08-04,Training
+4,342,2020-08-05,Training
+4,343,2020-08-06,Training
+4,344,2020-08-07,Training
+4,345,2020-08-08,Training
+4,346,2020-08-09,Training
+4,347,2020-08-10,Training
+4,348,2020-08-11,Training
+4,349,2020-08-12,Training
+4,350,2020-08-13,Training
+4,351,2020-08-14,Training
+4,352,2020-08-15,Training
+4,353,2020-08-16,Training
+4,354,2020-08-17,Training
+4,355,2020-08-18,Training
+4,356,2020-08-19,Training
+4,357,2020-08-20,Training
+4,358,2020-08-21,Training
+4,359,2020-08-22,Training
+4,360,2020-08-23,Training
+4,361,2020-08-24,Training
+4,362,2020-08-25,Training
+4,363,2020-08-26,Training
+4,364,2020-08-27,Training
+4,365,2020-08-28,Training
+5,1,2019-08-30,Training
+5,2,2019-08-31,Training
+5,3,2019-09-01,Training
+5,4,2019-09-02,Training
+5,5,2019-09-03,Training
+5,6,2019-09-04,Training
+5,7,2019-09-05,Training
+5,8,2019-09-06,Training
+5,9,2019-09-07,Training
+5,10,2019-09-08,Training
+5,11,2019-09-09,Training
+5,12,2019-09-10,Training
+5,13,2019-09-11,Training
+5,14,2019-09-12,Training
+5,15,2019-09-13,Training
+5,16,2019-09-14,Training
+5,17,2019-09-15,Training
+5,18,2019-09-16,Training
+5,19,2019-09-17,Training
+5,20,2019-09-18,Training
+5,21,2019-09-19,Training
+5,22,2019-09-20,Training
+5,23,2019-09-21,Training
+5,24,2019-09-22,Training
+5,25,2019-09-23,Training
+5,26,2019-09-24,Training
+5,27,2019-09-25,Training
+5,28,2019-09-26,Training
+5,29,2019-09-27,Training
+5,30,2019-09-28,Training
+5,31,2019-09-29,Training
+5,32,2019-09-30,Training
+5,33,2019-10-01,Training
+5,34,2019-10-02,Training
+5,35,2019-10-03,Training
+5,36,2019-10-04,Training
+5,37,2019-10-05,Training
+5,38,2019-10-06,Training
+5,39,2019-10-07,Training
+5,40,2019-10-08,Training
+5,41,2019-10-09,Training
+5,42,2019-10-10,Training
+5,43,2019-10-11,Training
+5,44,2019-10-12,Training
+5,45,2019-10-13,Training
+5,46,2019-10-14,Training
+5,47,2019-10-15,Training
+5,48,2019-10-16,Training
+5,49,2019-10-17,Training
+5,50,2019-10-18,Training
+5,51,2019-10-19,Training
+5,52,2019-10-20,Training
+5,53,2019-10-21,Training
+5,54,2019-10-22,Training
+5,55,2019-10-23,Training
+5,56,2019-10-24,Training
+5,57,2019-10-25,Training
+5,58,2019-10-26,Training
+5,59,2019-10-27,Training
+5,60,2019-10-28,Training
+5,61,2019-10-29,Training
+5,62,2019-10-30,Training
+5,63,2019-10-31,Training
+5,64,2019-11-01,Training
+5,65,2019-11-02,Training
+5,66,2019-11-03,Training
+5,67,2019-11-04,Training
+5,68,2019-11-05,Training
+5,69,2019-11-06,Training
+5,70,2019-11-07,Training
+5,71,2019-11-08,Training
+5,72,2019-11-09,Training
+5,73,2019-11-10,Training
+5,74,2019-11-11,Training
+5,75,2019-11-12,Training
+5,76,2019-11-13,Training
+5,77,2019-11-14,Training
+5,78,2019-11-15,Training
+5,79,2019-11-16,Training
+5,80,2019-11-17,Training
+5,81,2019-11-18,Training
+5,82,2019-11-19,Training
+5,83,2019-11-20,Training
+5,84,2019-11-21,Training
+5,85,2019-11-22,Training
+5,86,2019-11-23,Training
+5,87,2019-11-24,Training
+5,88,2019-11-25,Training
+5,89,2019-11-26,Training
+5,90,2019-11-27,Training
+5,91,2019-11-28,Training
+5,92,2019-11-29,Training
+5,93,2019-11-30,Training
+5,94,2019-12-01,Training
+5,95,2019-12-02,Training
+5,96,2019-12-03,Training
+5,97,2019-12-04,Training
+5,98,2019-12-05,Training
+5,99,2019-12-06,Training
+5,100,2019-12-07,Training
+5,101,2019-12-08,Training
+5,102,2019-12-09,Training
+5,103,2019-12-10,Training
+5,104,2019-12-11,Training
+5,105,2019-12-12,Training
+5,106,2019-12-13,Training
+5,107,2019-12-14,Training
+5,108,2019-12-15,Training
+5,109,2019-12-16,Training
+5,110,2019-12-17,Training
+5,111,2019-12-18,Training
+5,112,2019-12-19,Training
+5,113,2019-12-20,Training
+5,114,2019-12-21,Training
+5,115,2019-12-22,Training
+5,116,2019-12-23,Training
+5,117,2019-12-24,Training
+5,118,2019-12-25,Training
+5,119,2019-12-26,Training
+5,120,2019-12-27,Training
+5,121,2019-12-28,Training
+5,122,2019-12-29,Training
+5,123,2019-12-30,Training
+5,124,2019-12-31,Training
+5,125,2020-01-01,Training
+5,126,2020-01-02,Training
+5,127,2020-01-03,Training
+5,128,2020-01-04,Training
+5,129,2020-01-05,Training
+5,130,2020-01-06,Training
+5,131,2020-01-07,Training
+5,132,2020-01-08,Training
+5,133,2020-01-09,Training
+5,134,2020-01-10,Training
+5,135,2020-01-11,Training
+5,136,2020-01-12,Training
+5,137,2020-01-13,Training
+5,138,2020-01-14,Training
+5,139,2020-01-15,Training
+5,140,2020-01-16,Training
+5,141,2020-01-17,Training
+5,142,2020-01-18,Training
+5,143,2020-01-19,Training
+5,144,2020-01-20,Training
+5,145,2020-01-21,Training
+5,146,2020-01-22,Training
+5,147,2020-01-23,Training
+5,148,2020-01-24,Training
+5,149,2020-01-25,Training
+5,150,2020-01-26,Training
+5,151,2020-01-27,Training
+5,152,2020-01-28,Training
+5,153,2020-01-29,Training
+5,154,2020-01-30,Training
+5,155,2020-01-31,Training
+5,156,2020-02-01,Training
+5,157,2020-02-02,Training
+5,158,2020-02-03,Training
+5,159,2020-02-04,Training
+5,160,2020-02-05,Training
+5,161,2020-02-06,Training
+5,162,2020-02-07,Training
+5,163,2020-02-08,Training
+5,164,2020-02-09,Training
+5,165,2020-02-10,Training
+5,166,2020-02-11,Training
+5,167,2020-02-12,Training
+5,168,2020-02-13,Training
+5,169,2020-02-14,Training
+5,170,2020-02-15,Training
+5,171,2020-02-16,Training
+5,172,2020-02-17,Training
+5,173,2020-02-18,Training
+5,174,2020-02-19,Training
+5,175,2020-02-20,Training
+5,176,2020-02-21,Training
+5,177,2020-02-22,Training
+5,178,2020-02-23,Training
+5,179,2020-02-24,Training
+5,180,2020-02-25,Training
+5,181,2020-02-26,Training
+5,182,2020-02-27,Training
+5,183,2020-02-28,Training
+5,184,2020-02-29,Training
+5,185,2020-03-01,Training
+5,186,2020-03-02,Training
+5,187,2020-03-03,Training
+5,188,2020-03-04,Training
+5,189,2020-03-05,Training
+5,190,2020-03-06,Training
+5,191,2020-03-07,Training
+5,192,2020-03-08,Training
+5,193,2020-03-09,Training
+5,194,2020-03-10,Training
+5,195,2020-03-11,Training
+5,196,2020-03-12,Training
+5,197,2020-03-13,Training
+5,198,2020-03-14,Training
+5,199,2020-03-15,Training
+5,200,2020-03-16,Training
+5,201,2020-03-17,Training
+5,202,2020-03-18,Training
+5,203,2020-03-19,Training
+5,204,2020-03-20,Training
+5,205,2020-03-21,Training
+5,206,2020-03-22,Training
+5,207,2020-03-23,Training
+5,208,2020-03-24,Training
+5,209,2020-03-25,Training
+5,210,2020-03-26,Training
+5,211,2020-03-27,Training
+5,212,2020-03-28,Training
+5,213,2020-03-29,Training
+5,214,2020-03-30,Training
+5,215,2020-03-31,Training
+5,216,2020-04-01,Training
+5,217,2020-04-02,Training
+5,218,2020-04-03,Training
+5,219,2020-04-04,Training
+5,220,2020-04-05,Training
+5,221,2020-04-06,Training
+5,222,2020-04-07,Training
+5,223,2020-04-08,Training
+5,224,2020-04-09,Training
+5,225,2020-04-10,Training
+5,226,2020-04-11,Training
+5,227,2020-04-12,Training
+5,228,2020-04-13,Training
+5,229,2020-04-14,Training
+5,230,2020-04-15,Training
+5,231,2020-04-16,Training
+5,232,2020-04-17,Training
+5,233,2020-04-18,Training
+5,234,2020-04-19,Training
+5,235,2020-04-20,Training
+5,236,2020-04-21,Training
+5,237,2020-04-22,Training
+5,238,2020-04-23,Training
+5,239,2020-04-24,Training
+5,240,2020-04-25,Training
+5,241,2020-04-26,Training
+5,242,2020-04-27,Training
+5,243,2020-04-28,Training
+5,244,2020-04-29,Training
+5,245,2020-04-30,Training
+5,246,2020-05-01,Training
+5,247,2020-05-02,Training
+5,248,2020-05-03,Training
+5,249,2020-05-04,Training
+5,250,2020-05-05,Training
+5,251,2020-05-06,Training
+5,252,2020-05-07,Training
+5,253,2020-05-08,Training
+5,254,2020-05-09,Training
+5,255,2020-05-10,Training
+5,256,2020-05-11,Training
+5,257,2020-05-12,Training
+5,258,2020-05-13,Training
+5,259,2020-05-14,Training
+5,260,2020-05-15,Training
+5,261,2020-05-16,Training
+5,262,2020-05-17,Training
+5,263,2020-05-18,Removed (buffer)
+5,264,2020-05-19,Removed (buffer)
+5,265,2020-05-20,Removed (buffer)
+5,266,2020-05-21,Removed (buffer)
+5,267,2020-05-22,Removed (buffer)
+5,268,2020-05-23,Removed (buffer)
+5,269,2020-05-24,Removed (buffer)
+5,270,2020-05-25,Removed (buffer)
+5,271,2020-05-26,Removed (buffer)
+5,272,2020-05-27,Removed (buffer)
+5,273,2020-05-28,Removed (buffer)
+5,274,2020-05-29,Removed (buffer)
+5,275,2020-05-30,Removed (buffer)
+5,276,2020-05-31,Removed (buffer)
+5,277,2020-06-01,Removed (buffer)
+5,278,2020-06-02,Removed (buffer)
+5,279,2020-06-03,Removed (buffer)
+5,280,2020-06-04,Removed (buffer)
+5,281,2020-06-05,Removed (buffer)
+5,282,2020-06-06,Removed (buffer)
+5,283,2020-06-07,Removed (buffer)
+5,284,2020-06-08,Removed (buffer)
+5,285,2020-06-09,Removed (buffer)
+5,286,2020-06-10,Removed (buffer)
+5,287,2020-06-11,Removed (buffer)
+5,288,2020-06-12,Removed (buffer)
+5,289,2020-06-13,Removed (buffer)
+5,290,2020-06-14,Removed (buffer)
+5,291,2020-06-15,Removed (buffer)
+5,292,2020-06-16,Removed (buffer)
+5,293,2020-06-17,Validation
+5,294,2020-06-18,Validation
+5,295,2020-06-19,Validation
+5,296,2020-06-20,Validation
+5,297,2020-06-21,Validation
+5,298,2020-06-22,Validation
+5,299,2020-06-23,Validation
+5,300,2020-06-24,Validation
+5,301,2020-06-25,Validation
+5,302,2020-06-26,Validation
+5,303,2020-06-27,Validation
+5,304,2020-06-28,Validation
+5,305,2020-06-29,Validation
+5,306,2020-06-30,Validation
+5,307,2020-07-01,Validation
+5,308,2020-07-02,Validation
+5,309,2020-07-03,Validation
+5,310,2020-07-04,Validation
+5,311,2020-07-05,Validation
+5,312,2020-07-06,Validation
+5,313,2020-07-07,Validation
+5,314,2020-07-08,Validation
+5,315,2020-07-09,Validation
+5,316,2020-07-10,Validation
+5,317,2020-07-11,Validation
+5,318,2020-07-12,Validation
+5,319,2020-07-13,Validation
+5,320,2020-07-14,Validation
+5,321,2020-07-15,Validation
+5,322,2020-07-16,Validation
+5,323,2020-07-17,Validation
+5,324,2020-07-18,Validation
+5,325,2020-07-19,Validation
+5,326,2020-07-20,Validation
+5,327,2020-07-21,Validation
+5,328,2020-07-22,Validation
+5,329,2020-07-23,Validation
+5,330,2020-07-24,Validation
+5,331,2020-07-25,Validation
+5,332,2020-07-26,Validation
+5,333,2020-07-27,Validation
+5,334,2020-07-28,Validation
+5,335,2020-07-29,Validation
+5,336,2020-07-30,Validation
+5,337,2020-07-31,Validation
+5,338,2020-08-01,Validation
+5,339,2020-08-02,Validation
+5,340,2020-08-03,Validation
+5,341,2020-08-04,Validation
+5,342,2020-08-05,Validation
+5,343,2020-08-06,Validation
+5,344,2020-08-07,Validation
+5,345,2020-08-08,Validation
+5,346,2020-08-09,Validation
+5,347,2020-08-10,Validation
+5,348,2020-08-11,Validation
+5,349,2020-08-12,Validation
+5,350,2020-08-13,Validation
+5,351,2020-08-14,Validation
+5,352,2020-08-15,Validation
+5,353,2020-08-16,Validation
+5,354,2020-08-17,Validation
+5,355,2020-08-18,Validation
+5,356,2020-08-19,Validation
+5,357,2020-08-20,Validation
+5,358,2020-08-21,Validation
+5,359,2020-08-22,Validation
+5,360,2020-08-23,Validation
+5,361,2020-08-24,Validation
+5,362,2020-08-25,Validation
+5,363,2020-08-26,Validation
+5,364,2020-08-27,Validation
+5,365,2020-08-28,Validation

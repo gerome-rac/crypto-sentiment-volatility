@@ -1,0 +1,91 @@
+# The repository lives in its own subtree inside the thesis working folder, so the
+# thesis text, the paper library and the harvest data are outside it by construction.
+# The rules below cover what can still end up here: build junk, credentials, data
+# pulled in for a local run, and model weights.
+
+# ---- OS ---------------------------------------------------------------------
+.DS_Store
+._*
+
+# ---- Python -----------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# ---- credentials: never, under any circumstances -----------------------------
+.env
+.env.*
+*.pem
+*.key
+*.p12
+.netrc
+rclone.conf
+service-account*.json
+*credentials*.json
+*token*.json
+
+# ---- data --------------------------------------------------------------------
+# Nothing derived from the corpora is committed. Platform terms of service for
+# Twitter/X, Reddit and StockTwits forbid redistributing post content, so post-level
+# text must never appear here - not as a sample, not as a test fixture.
+# Directory contents excluded, but not the directory itself, so that the data
+# availability note below it stays tracked (git cannot re-include a file that
+# sits inside an excluded directory).
+data/*
+!data/README.md
+*.parquet
+*.feather
+*.jsonl
+*.jsonl.gz
+*.ndjson
+*.zst
+*.tar
+*.tar.gz
+*.zip
+*.gz
+*.torrent
+*.duckdb
+
+# ---- model weights -----------------------------------------------------------
+# EmTract runs from its published weights; they are fetched, never vendored.
+*.bin
+*.safetensors
+*.pt
+*.ckpt
+
+# ---- logs and scratch --------------------------------------------------------
+logs/
+*.log
+scratch/
+tmp/
+
+# ---- thesis content: belongs to the parent folder, never to the repo ---------
+# Note: gitignore has no trailing comments - a "#" only starts a comment at the
+# start of a line, so every negation below must sit on its own line.
+*.tex
+*.docx
+*.pdf
+
+# Generated tables and figures ARE replication output and do get committed.
+!outputs/tables/*.tex
+!outputs/figures/*.pdf
+
+# ---- editors -----------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+# editor-assistant settings (VS Code Copilot / Mermaid), not part of the code
+.github/copilot-instructions.md
+.github/instructions/
+
+# Twitter ETL v2 outputs (ledgers carry remote paths and absolute local paths)
+processed_data_v2/
+tmp_archives/
+*.done.json
+*.stats.json

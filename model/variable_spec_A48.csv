@@ -1,0 +1,41 @@
+name,table,block,scope,har,transform,dlog,csq,impute_flag,notes
+rv,har_panel,har_rv,coin,1,log,0,0,,HAR-RV reference (MCS only); also the target log rv_{t+1}
+c,har_panel,har,coin,1,log,0,0,,R0: log of the 1/7/30-day average of C (ABD 2007)
+j,har_panel,har,coin,1,log1p,0,0,,R0: log(1 + average J)
+att_reddit,har_panel,attention,coin,1,log1p_daily,1,0,,"Reddit posts per coin-day (bot-filtered) | 7 Oct 2026: log of each day, then HAR averages of the daily logs (6 Oct (4) literal)"
+att_stocktwits,har_panel,attention,coin,1,log1p_daily,1,0,,"StockTwits posts per coin-day | 7 Oct 2026: log of each day, then HAR averages of the daily logs (6 Oct (4) literal)"
+att_twitter,har_panel,attention,coin,1,log1p_daily,1,0,twitter_absent,"Twitter posts per coin-day coverage-scaled; zero-capture days imputed in window | 7 Oct 2026: log of each day, then HAR averages of the daily logs (6 Oct (4) literal)"
+att_wiki,har_panel,attention,coin,1,log_daily,0,0,,"Wikipedia pageviews (user agent) per coin article; log level in HAR form (3 Oct (6)); day-t change not stated (OP-ATT) | 7 Oct 2026: log of each day, then HAR averages of the daily logs (6 Oct (4) literal)"
+att_google,har_panel,attention,coin,1,log_daily,1,0,,"Google Trends per coin term (divided by first-day value) | 7 Oct 2026: log of each day, then HAR averages of the daily logs (6 Oct (4) literal)"
+att_news,har_panel,attention,coin,1,log1p_daily,0,0,,"RavenPack log(1 + distinct headlines) per coin-day in HAR form; day-t change not stated (OP-ATT) | 7 Oct 2026: log of each day, then HAR averages of the daily logs (6 Oct (4) literal)"
+mkt_reddit,har_panel,attention,market,1,log1p_daily,1,0,,"Reddit MARKET-series posts | 7 Oct 2026: log of each day, then HAR averages of the daily logs (6 Oct (4) literal)"
+mkt_stocktwits,har_panel,attention,market,1,log1p_daily,1,0,,"StockTwits MARKET-series posts | 7 Oct 2026: log of each day, then HAR averages of the daily logs (6 Oct (4) literal)"
+mkt_twitter,har_panel,attention,market,1,log1p_daily,1,0,twitter_absent,"Twitter MARKET-series posts coverage-scaled; zero-capture days imputed in window | 7 Oct 2026: log of each day, then HAR averages of the daily logs (6 Oct (4) literal)"
+mkt_wiki,har_panel,attention,market,1,log_daily,0,0,,"Wikipedia 'Cryptocurrency' log level in HAR form (OP-ATT) | 7 Oct 2026: log of each day, then HAR averages of the daily logs (6 Oct (4) literal)"
+mkt_google_cryptocurrency,har_panel,attention,market,1,log_daily,1,0,,"Google 'cryptocurrency' | 7 Oct 2026: log of each day, then HAR averages of the daily logs (6 Oct (4) literal)"
+mkt_google_crypto,har_panel,attention,market,1,log_daily,1,0,,"Google 'crypto' (dropped by the D8 section 5 rule if contaminated: delete this row) | 7 Oct 2026: log of each day, then HAR averages of the daily logs (6 Oct (4) literal)"
+pol,har_panel,polarity,coin,1,level,0,1,,D15 pooled daily mean FinBERT P(pos)-P(neg); centred square in window | D16 precision-weighted platform means before pooling (step 10b; clarification 7 Oct 2026); unweighted version in <name>_raw | A48 (28 Oct 2026): text variant a48_quoted (quote posts scored on the quoted text (emotions; FinBERT has the own text only))
+pol_sd,har_panel,polarity,coin,1,level,0,0,,within-day SD of post polarity (pooled platform SDs; NaN below 2 posts) | A48 (28 Oct 2026): text variant a48_quoted (quote posts scored on the quoted text (emotions; FinBERT has the own text only))
+emo_happy,har_panel,emotion,coin,1,level,0,1,,EmTract P(happy) daily mean | D16 precision-weighted platform means before pooling (step 10b; clarification 7 Oct 2026); unweighted version in <name>_raw | A48 (28 Oct 2026): text variant a48_quoted (quote posts scored on the quoted text (emotions; FinBERT has the own text only))
+emo_sad,har_panel,emotion,coin,1,level,0,1,,EmTract P(sad) | D16 precision-weighted platform means before pooling (step 10b; clarification 7 Oct 2026); unweighted version in <name>_raw | A48 (28 Oct 2026): text variant a48_quoted (quote posts scored on the quoted text (emotions; FinBERT has the own text only))
+emo_anger,har_panel,emotion,coin,1,level,0,1,,EmTract P(anger) | D16 precision-weighted platform means before pooling (step 10b; clarification 7 Oct 2026); unweighted version in <name>_raw | A48 (28 Oct 2026): text variant a48_quoted (quote posts scored on the quoted text (emotions; FinBERT has the own text only))
+emo_disgust,har_panel,emotion,coin,1,level,0,1,,EmTract P(disgust) | D16 precision-weighted platform means before pooling (step 10b; clarification 7 Oct 2026); unweighted version in <name>_raw | A48 (28 Oct 2026): text variant a48_quoted (quote posts scored on the quoted text (emotions; FinBERT has the own text only))
+emo_surprise,har_panel,emotion,coin,1,level,0,1,,EmTract P(surprise) | D16 precision-weighted platform means before pooling (step 10b; clarification 7 Oct 2026); unweighted version in <name>_raw | A48 (28 Oct 2026): text variant a48_quoted (quote posts scored on the quoted text (emotions; FinBERT has the own text only))
+emo_fear,har_panel,emotion,coin,1,level,0,1,,EmTract P(fear) | D16 precision-weighted platform means before pooling (step 10b; clarification 7 Oct 2026); unweighted version in <name>_raw | A48 (28 Oct 2026): text variant a48_quoted (quote posts scored on the quoted text (emotions; FinBERT has the own text only))
+emo_happy_sd,har_panel,emotion,coin,1,level,0,0,,within-day SD | A48 (28 Oct 2026): text variant a48_quoted (quote posts scored on the quoted text (emotions; FinBERT has the own text only))
+emo_sad_sd,har_panel,emotion,coin,1,level,0,0,,within-day SD | A48 (28 Oct 2026): text variant a48_quoted (quote posts scored on the quoted text (emotions; FinBERT has the own text only))
+emo_anger_sd,har_panel,emotion,coin,1,level,0,0,,within-day SD | A48 (28 Oct 2026): text variant a48_quoted (quote posts scored on the quoted text (emotions; FinBERT has the own text only))
+emo_disgust_sd,har_panel,emotion,coin,1,level,0,0,,within-day SD | A48 (28 Oct 2026): text variant a48_quoted (quote posts scored on the quoted text (emotions; FinBERT has the own text only))
+emo_surprise_sd,har_panel,emotion,coin,1,level,0,0,,within-day SD | A48 (28 Oct 2026): text variant a48_quoted (quote posts scored on the quoted text (emotions; FinBERT has the own text only))
+emo_fear_sd,har_panel,emotion,coin,1,level,0,0,,within-day SD | A48 (28 Oct 2026): text variant a48_quoted (quote posts scored on the quoted text (emotions; FinBERT has the own text only))
+ctrl_vix,har_panel,control,market,0,none,0,0,,log VIX level (transformed by the controls track)
+ctrl_move,har_panel,control,market,0,none,0,0,,log MOVE level
+ctrl_term,har_panel,control,market,0,none,0,0,,term spread DGS10-DGS2 level
+ctrl_baa10y,har_panel,control,market,0,none,0,0,,"BAA10Y level lagged one day (Moody's Baa yield is posted the next day; clarification of 7 Oct 2026, D8 note section 7)"
+ctrl_dgs10_chg,har_panel,control,market,0,none,0,0,,10-year yield daily change
+ctrl_dxy_ret,har_panel,control,market,0,none,0,0,,DXY daily log return
+ctrl_gold_ret,har_panel,control,market,0,none,0,0,,gold XAU= daily log return
+ctrl_epu,har_panel,control,market,0,none,0,0,,log EPU lagged one day
+ctrl_tether_news,har_panel,control,market,0,none,0,0,,log(1 + Tether headlines)
+ctrl_tether_news_chg,har_panel,control,market,0,none,0,0,,daily change of log(1 + Tether headlines)
+ctrl_weekend,har_panel,control,market,0,none,0,0,,"weekend dummy 0/1 for the FORECAST day t+1 (Saturday or Sunday); Deviation 3 of the D8 note, 7 Oct 2026"

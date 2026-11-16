@@ -1,0 +1,32 @@
+block,variable,label,freq,sig_insample
+control,ctrl_weekend,Weekend indicator,0.9740112994350284,1
+control,ctrl_move,MOVE index,0.2146892655367231,0
+control,ctrl_vix,VIX,0.1909604519774011,0
+control,ctrl_tether_news,Tether news volume,0.1898305084745762,1
+control,ctrl_gold_ret,Gold return,0.1536723163841808,0
+control,ctrl_baa10y,BAA credit spread,0.1299435028248587,0
+control,ctrl_dgs10_chg,Change in the 10-year yield,0.127683615819209,0
+control,ctrl_dxy_ret,Dollar index return,0.0881355932203389,0
+control,ctrl_term,Term spread,0.0723163841807909,0
+control,ctrl_tether_news_chg,Change in Tether news volume,0.031638418079096,0
+control,ctrl_epu,Economic policy uncertainty,0.0112994350282485,0
+attention,mkt_reddit,"Reddit posts, market",0.4757062146892655,0
+attention,att_stocktwits,"StockTwits posts, coin",0.4225988700564971,1
+attention,att_google,"Google searches, coin",0.4045197740112994,0
+attention,att_reddit,"Reddit posts, coin",0.327683615819209,0
+attention,mkt_google_cryptocurrency,"Google searches, “cryptocurrency”",0.2361581920903954,0
+attention,mkt_google_crypto,"Google searches, “crypto”",0.1932203389830508,0
+attention,mkt_stocktwits,"StockTwits posts, market",0.1525423728813559,0
+attention,mkt_twitter,"Twitter posts, market",0.1412429378531073,0
+attention,att_twitter,"Twitter posts, coin",0.1367231638418079,1
+attention,mkt_wiki,"Wikipedia page views, market",0.0677966101694915,0
+attention,att_news,"News headlines, coin",0.0531073446327683,0
+attention,att_wiki,"Wikipedia page views, coin",0.0225988700564971,0
+polarity,pol,Polarity score,0.2011299435028248,0
+polarity,pol_sd,Within-day dispersion of polarity,0.0485875706214689,0
+emotion,emo_fear,Fear,0.0440677966101694,0
+emotion,emo_sad,Sadness,0.0305084745762711,0
+emotion,emo_happy,Happiness,0.0248587570621468,0
+emotion,emo_anger,Anger,0.0022598870056497,0
+emotion,emo_disgust,Disgust,0.0022598870056497,0
+emotion,emo_surprise,Surprise,0.0,0

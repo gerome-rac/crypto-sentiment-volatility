@@ -1,0 +1,51 @@
+# Conda environment of the study's code (name: thesis), except EmTract's stage 1, which needs
+# EmTract's own library versions: environment-emtract-ref.yml.
+#
+#   conda env create -f environment.yml
+#   conda activate thesis
+#
+# Versions are those that produced the stored tables (pins checked 2 Oct 2026 against the
+# environments that ran the code; this file itself was not used to rebuild them):
+#   pipeline/01-05, 04_series_dlt.py   these versions, except pyarrow 24.0.0 and pandas 3.0.3
+#   pipeline/06_emotion_emtract.py     pack, score, collect, merge, text-key-index, dlt match /
+#                                      completeness / merge-keys / build, news score: these versions
+#   pipeline/07_polarity_finbert.py    these versions, except DuckDB 1.5.6
+#   GPU scoring (`score` of 06 and 07) a CUDA container with Python 3.11, torch 2.13.0 and
+#                                      transformers 5.17.0 from PyPI, numpy, pyarrow, psutil (no DuckDB)
+# The econometrics packages at the end are floors; the versions that ran the final models are in the README (Environment).
+# A dry-run solve of this file (2 Oct 2026, micromamba 2.5.0, osx-arm64) resolved every conda pin from
+# conda-forge (251 packages); the pip line is installed after the solve.
+
+name: thesis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  # data handling (steps 01-07)
+  - numpy=2.4.6
+  - pandas=3.0.6
+  - pyarrow=25.0.0
+  - pytz                     # DuckDB needs it to return TIMESTAMPTZ values to Python
+  - python-duckdb=1.5.5      # every DuckDB step (the units query of 04_series_dlt.py needs 1.5)
+  - rapidfuzz=3.14.6         # pre-filter of the template rule (03_bot_filter.py)
+  - psutil=7.2.2             # worker memory in the stage-1 status file
+  # model scoring (06 stage 2 and merge, 07 all subcommands)
+  - pytorch=2.13.0
+  - transformers=5.17.0
+  - tokenizers=0.23.1
+  - safetensors=0.8.0
+  - huggingface_hub=1.32.0
+  # notebooks and figures
+  - scipy=1.17.1
+  - matplotlib=3.11.0
+  - nbformat
+  - nbclient
+  - ipykernel
+  # econometrics (planned; floors)
+  - statsmodels>=0.14
+  - linearmodels>=6.0
+  - arch-py>=7.0             # conda-forge name; imports as `arch`
+  - scikit-learn>=1.5
+  - pip
+  - pip:
+      - cydifflib==1.2.0     # optional compiled difflib, identical ratios (03_bot_filter.py falls back to difflib)

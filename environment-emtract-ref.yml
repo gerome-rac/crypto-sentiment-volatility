@@ -1,0 +1,38 @@
+# EmTract's own library versions (name: emtract-ref), for EmTract's stage 1: cleaning with EmTract's
+# vendored clean_text (third_party/emtract/) and tokenizing with tokenizers 0.10.3, EmTract's training
+# version (decision (6) of 29 Sep 2026: tokenizers 0.22 changes the ids of 1.24% of EmTract's tagged
+# posts). Used by:
+#   pipeline/06_emotion_emtract.py   tokenize, dlt clean, dlt tokenize, dlt verify, dlt refscore,
+#                                    news prepare, news stage1, news refcheck, merge --reference-empty-score
+#   tests/test_emotion_emtract.py    every group (groups A and D need this environment)
+# Pins as in EmTract's requirements.txt (upstream commit 4212881) where it pins, read back from the
+# environment that ran the full run (2 Oct 2026); the cloud VM of stage 1 used the same pins from PyPI.
+#
+#   conda env create -f environment-emtract-ref.yml
+#   conda activate emtract-ref
+#
+# A dry-run solve of this file (2 Oct 2026, micromamba 2.5.0, osx-arm64) resolved every conda pin from
+# conda-forge (124 packages); the pip lines are installed after the solve.
+
+name: emtract-ref
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9.15
+  - tokenizers=0.10.3
+  - transformers=4.10.3
+  - pytorch=1.11.0           # only for `merge --reference-empty-score`, `dlt refscore`, `news refcheck`
+  - datasets=1.14.0
+  - huggingface_hub=0.0.19
+  - emoji=1.7.0
+  - numpy=1.21.6
+  - pandas=1.3.5
+  - pyarrow=9.0.0
+  - scipy=1.11.2
+  - setuptools=59.8.0
+  - pip
+  - pip:
+      - advertools==0.13.1
+      - symspellpy==6.7.0
+      - duckdb==1.4.5        # runner.py imports DuckDB; stage 1 itself does not query
+      - psutil==7.2.2
